@@ -1,0 +1,6 @@
+framework module GoatUserCenter {
+  umbrella header "GoatUserCenter.h"
+
+  export *
+  module * { export * }
+}

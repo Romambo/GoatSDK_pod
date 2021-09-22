@@ -1,0 +1,6 @@
+framework module GoatSDK {
+  umbrella header "GoatSDK.h"
+
+  export *
+  module * { export * }
+}

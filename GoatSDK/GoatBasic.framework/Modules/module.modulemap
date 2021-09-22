@@ -1,0 +1,6 @@
+framework module GoatBasic {
+  umbrella header "GoatBasic.h"
+
+  export *
+  module * { export * }
+}

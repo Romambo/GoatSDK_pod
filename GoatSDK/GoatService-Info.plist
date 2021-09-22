@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GAME_ID</key>
+	<string>10009</string>
+	<key>GAME_KEY</key>
+	<string>J4TLSUWNSK69</string>
+	<key>GAME_KEY_SANDBOX</key>
+	<string>J4TLSUWNSK69</string>
+	<key>ADJUST</key>
+	<dict>
+		<key>token</key>
+		<string>ifmt4kv0xlog</string>
+		<key>secret</key>
+		<integer>0</integer>
+		<key>info1</key>
+		<integer>1</integer>
+		<key>info2</key>
+		<integer>2</integer>
+		<key>info3</key>
+		<integer>3</integer>
+		<key>info4</key>
+		<integer>4</integer>
+	</dict>
+	<key>PLATFORM</key>
+	<string>AppleStore</string>
+</dict>
+</plist>

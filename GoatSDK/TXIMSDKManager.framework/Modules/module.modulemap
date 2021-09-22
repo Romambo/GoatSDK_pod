@@ -1,0 +1,6 @@
+framework module TXIMSDKManager {
+  umbrella header "TXIMSDKManager.h"
+
+  export *
+  module * { export * }
+}
