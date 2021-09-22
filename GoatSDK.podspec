@@ -47,12 +47,6 @@ Pod::Spec.new do |spec|
     ss.resource = 'GoatSDK/GoatSource.bundle','GoatSdk_Version.json','GoatService-Info.plist'
   end
 
-  spec.subspec 'TXIMSDKManager' do |ss|
-    
-    ss.ios.deployment_target = '9.0'
-    ss.dependency 'GoatSDK/GoatSDK'
-    ss.vendored_frameworks = 'GoatSDK/TXIMSDKManager.framework','GoatSDK/ImSDK_Plus.framework'
-  end
 
 
 
